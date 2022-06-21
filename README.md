@@ -83,12 +83,18 @@ Super Usuario:
 ### Endpoints: (se puede listar, crear, eliminar u actualizar)
 
 http://127.0.0.1:8000/users-login/
+
 http://127.0.0.1:8000/users/
-http://127.0.0.1:8000/product-api/products/",
-http://127.0.0.1:8000/product-api/orders/",
-http://127.0.0.1:8000/product-api/ordersdetail/",
-http://127.0.0.1:8000/product-api/get-total/",
-http://127.0.0.1:8000/product-api/get-total-usd/"
+
+http://127.0.0.1:8000/product-api/products/
+
+http://127.0.0.1:8000/product-api/orders/
+
+http://127.0.0.1:8000/product-api/ordersdetail/
+
+http://127.0.0.1:8000/product-api/get-total/
+
+http://127.0.0.1:8000/product-api/get-total-usd/
 
 
 ### Importante
